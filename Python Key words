@@ -1,0 +1,35 @@
+There are 33 keywords in Python 3.7. This number can vary slightly in the course of time.
+
+1. False
+2. class 	
+3. finally 	
+4. is 	
+5. return
+6. None 	
+7. continue 	
+8. for 	
+9. lambda 	
+10. try
+11. True 	
+12. def 	
+13. from 	
+14. nonlocal 	
+15. while
+16. and 	
+17. del 	
+18. global 	
+19. not 	
+20. with
+21. as 	
+22. elif 	
+23. if 	
+24. or 	
+25. yield
+26. assert 	
+27. else 	
+28. import 	
+29. pass 	 
+30. break 	
+31. except 	
+32. in 	
+33. raise
